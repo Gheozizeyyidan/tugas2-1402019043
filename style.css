@@ -1,0 +1,21 @@
+body {
+    box-sizing: border-box;
+}
+
+
+
+header , footer {
+    height: 5vh;
+}
+
+.tengah img {
+    width: 400px;
+    height: 400px;
+}
+
+
+
+content {
+    min-height: 90vh;
+    min-width: 800px;
+}
